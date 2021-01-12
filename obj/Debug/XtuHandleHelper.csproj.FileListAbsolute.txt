@@ -1,0 +1,6 @@
+F:\VS工程\Class library\XtuHandleHelper\bin\Debug\XtuHandleHelper.dll
+F:\VS工程\Class library\XtuHandleHelper\bin\Debug\XtuHandleHelper.pdb
+F:\VS工程\Class library\XtuHandleHelper\obj\Debug\XtuHandleHelper.csprojAssemblyReference.cache
+F:\VS工程\Class library\XtuHandleHelper\obj\Debug\XtuHandleHelper.csproj.CoreCompileInputs.cache
+F:\VS工程\Class library\XtuHandleHelper\obj\Debug\XtuHandleHelper.dll
+F:\VS工程\Class library\XtuHandleHelper\obj\Debug\XtuHandleHelper.pdb

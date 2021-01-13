@@ -6,6 +6,5 @@ F:\VS工程\Class library\XtuHandleHelper\obj\Debug\XtuHandleHelper.pdb
 F:\VS工程\Class library\XtuHandleUitls\obj\Debug\XtuHandleUitls.csproj.CoreCompileInputs.cache
 F:\VS工程\Class library\XtuHandleUitls\bin\Debug\XtuHandleUitls.dll
 F:\VS工程\Class library\XtuHandleUitls\bin\Debug\XtuHandleUitls.pdb
-F:\VS工程\Class library\XtuHandleUitls\obj\Debug\XtuHandleUitls.csprojAssemblyReference.cache
 F:\VS工程\Class library\XtuHandleUitls\obj\Debug\XtuHandleUitls.dll
 F:\VS工程\Class library\XtuHandleUitls\obj\Debug\XtuHandleUitls.pdb

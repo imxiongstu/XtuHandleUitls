@@ -124,6 +124,25 @@ namespace XtuHandleUitls
         }
 
         /// <summary>
+        /// 获取窗口标题
+        /// </summary>
+        /// <param name="wi"></param>
+        public static string GetWindowText(this WindowInfo wi)
+        {
+            StringBuilder sb = new StringBuilder(4048);
+            GetWindowText(wi.Hwnd, sb, sb.Capacity);
+            return sb.ToString();
+        }
+        /// <summary>
+        /// 设置窗口标题
+        /// </summary>
+        /// <param name="wi"></param>
+        public static void SetWindowText(this WindowInfo wi, string text)
+        {
+            SetWindowText(wi.Hwnd, text);
+        }
+
+        /// <summary>
         /// 获取该子窗口的文本内容
         /// </summary>
         /// <param name="cwi"></param>
